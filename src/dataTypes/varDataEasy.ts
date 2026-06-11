@@ -145,7 +145,6 @@ console.log(subtract(40,20));
 function greet(): void{
     console.log("hello world");
 }
-greet();
 
 // template String 
 
