@@ -23,3 +23,9 @@ var jerseyName : String = "Sakthigv";
 
 console.log(jerseyNo,jerseyName);
 
+// Multiple Variables 
+var sgvAge : number = 28;
+let sgvCity : String = "chennai";
+const country: String = "India";
+
+console.log(sgvAge,sgvCity,country);
