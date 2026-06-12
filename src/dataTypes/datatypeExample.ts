@@ -1,4 +1,4 @@
-// // 1. Number variable 
+// // 1. Number Datatype 
 
 // let age: number = 25;
 // console.log(age);
@@ -6,7 +6,7 @@
 // const mark: number = 87;
 // console.log(mark);
 
-// 2. String Variable
+// 2. String Datatype
 
 // let userName: String = "Sakthi";
 // console.log(userName);
@@ -14,7 +14,7 @@
 // const nameIs: String = "SGV";
 // console.log(nameIs);
 
-// 3. Boolean variable 
+// 3. Boolean Datatype 
 
 // let isActive: boolean = true;
 // console.log(isActive);
@@ -22,30 +22,6 @@
 // const isAvailable: boolean = false;
 // console.log(isAvailable);
 
-// 4. Var Example
-// var x = 10;
-// x = 20;
-// console.log(x);
-
-// var s = 29;
-// s = 44;
-// console.log(s);
-
-// 5. Let example 
-// let y = 25;
-// y = 10;
-// console.log(y);
-
-// let d = 3;
-// d = 30;
-// console.log(d);
-
-//6. Const Example
-// const pi = 3.14;
-// console.log(pi);
-
-// const rate = 500;
-// console.log(rate);
 
 //7. any Type 
 
