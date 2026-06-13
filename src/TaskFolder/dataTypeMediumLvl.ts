@@ -1,4 +1,4 @@
-/*  //02 object with Full type
+  //02 object with Full type
   let student:{name:string;age:number;isPass:boolean}={
     name : "sakthigv",
     age :29,
@@ -49,19 +49,9 @@ console.log(officePlace);
 
 //Nested Object with array
 
-*/
 
-let username = "sakthi";
-let password = "1234";
-if (username === "admin") {
- if (password === "1234") {
- console.log("Login successful ");
- } else {
- console.log("Wrong password ");
- }
-} else {
- console.log("Invalid username ");
-}
+
+
 
 
 
