@@ -43,8 +43,8 @@ enum categories{typA="Admin",typB="Users"};
 let roleStatus = categories.typA;
 console.log(roleStatus);
 
-enum workPlace{cityy:"Chennai",Country:"India"};
-let officePlace = workPlace.Chennai;
+enum workPlace{cityy="Chennai",Country="India"};
+let officePlace = workPlace.cityy;
 console.log(officePlace);
 
 //Nested Object with array

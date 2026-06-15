@@ -1,105 +1,105 @@
-// // 1. Number Datatype 
+// 1. Number Datatype 
 
-// let age: number = 25;
-// console.log(age);
+let age: number = 25;
+console.log(age);
 
-// const mark: number = 87;
-// console.log(mark);
+const mark: number = 87;
+console.log(mark);
 
-// 2. String Datatype
+//2. String Datatype
 
-// let userName: String = "Sakthi";
-// console.log(userName);
+let userNamee: String = "Sakthi";
+console.log(userNamee);
 
-// const nameIs: String = "SGV";
-// console.log(nameIs);
+const nameIs: String = "SGV";
+console.log(nameIs);
 
-// 3. Boolean Datatype 
+//3. Boolean Datatype 
 
-// let isActive: boolean = true;
-// console.log(isActive);
+let isActive: boolean = true;
+console.log(isActive);
 
-// const isAvailable: boolean = false;
-// console.log(isAvailable);
+const isAvailable: boolean = false;
+console.log(isAvailable);
 
 
 //7. any Type 
 
-// let data: any = "Sakthi";
-// console.log(data);
-// data = 300;
-// console.log(data);
+let data: any = "Sakthi";
+console.log(data);
+data = 300;
+console.log(data);
 
-// let test: any = 90;
-// console.log(test);
-// test = "Exam";
-// console.log(test);
+let test: any = 90;
+console.log(test);
+test = "Exam";
+console.log(test);
 
-// Union Type 
+//Union Type 
 
-// let value: number | String = 10;
-// console.log(value);
-// value = "sakthi";
-// console.log(value);  
+let value: number | String = 10;
+console.log(value);
+value = "sakthi";
+console.log(value);  
 
-// let num: number | boolean = true;
-// console.log(num);
-// num = 20;
-// console.log(num);
+let num: number | boolean = true;
+console.log(num);
+num = 20;
+console.log(num);
 
-// number Array
+//number Array
 
-// let marks:number[]=[70,66,98,87,55];
-// console.log(marks); 
-// marks=[22,35,44,55,33];
-// console.log(marks);
+let marks:number[]=[70,66,98,87,55];
+console.log(marks); 
+marks=[22,35,44,55,33];
+console.log(marks);
+                                    
+const score: number[]=[140,170,187];
+console.log(score);
 
-// const score: number[]=[140,170,187];
-// console.log(score);
+//String Array 
 
-// String Array 
+let users: String[] = ["Sakthi","Arun","suresh"];
+console.log(users);
 
-// let users: String[] = ["Sakthi","Arun","suresh"];
-// console.log(users);
-
-// const fruits: String[] = ["Apple","orange","jackfruit"];
-// console.log(fruits);
+const fruits: String[] = ["Apple","orange","jackfruit"];
+console.log(fruits);
 
 //Tuple
 
-// let user :[String,number] = ["Sakthi",28];
-// console.log(user);
+let user :[String,number] = ["Sakthi",28];
+console.log(user);
 
-// let amount:[String,number] = ["Cash",1000];
-// console.log(amount);
+let amount:[String,number] = ["Cash",1000];
+console.log(amount);
 
 //Null type
-// let empty: null = null;
-// console.log(empty);
+let empty: null = null;
+console.log(empty);
 
-// undefined tyoe
+//undefined tyoe
 
-// let notSet: undefined = undefined;
-// console.log(notSet);
+let notSet: undefined = undefined;
+console.log(notSet);
 
-// object type 
+//object type 
 
-// let person:{name : String ; age : number}={
-// name:"Sakthi",
-// age:29
-// };
+let person:{name : String ; age : number}={
+name:"Sakthi",
+age:29
+};
 
-// console.log(person);
+console.log(person);
 
-// enum
+//enum
 
-// enum status {
-//     Active,
-//     inactive,
-//     pending
-// }
-// let currentStatus: status = status.inactive;
-// console.log(currentStatus); 
+enum status {
+    Active,
+    inactive,
+    pending
+}
+let currentStatus: status = status.inactive;
+console.log(currentStatus); 
 
 
 // -----------------------------------------
