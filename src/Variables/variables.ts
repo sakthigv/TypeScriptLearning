@@ -52,11 +52,15 @@ let Quantity : number = 3;
 let price : number = 500;
 console.log(Quantity*price);
 
+// const variable
+const carPrice : number = 24000;
+let changePrice = carPrice +1;
+console.log(changePrice); 
+
 //Var Variable
 var jerseyNo:number=18;
     jerseyNo=7;
 var jerseyName : String = "Sakthigv";
-
 console.log(jerseyNo,jerseyName);
 
 let myName : string = "Sakthigv";
@@ -66,6 +70,29 @@ var myCountry : string = "India";
 console.log(`My name is ${myName}.`, `My id is ${myId}.`,`i am from ${myCountry}.`);
 
 
+//=====================================================================================
 
+console.log("====================================================================");
 
+//String Variale
+let isName : string = "Sakthi";
+console.log("My name is " , isName);
+
+//Number Variable 
+let isAge : number = 29;
+console.log("My Age is ",isAge);
+
+//Boolean Variable
+let isStudent : boolean = true;
+console.log(isStudent);
+
+//Multiple Variable 
+const nname : string = "Sakthigv";
+let aage : number = 29;
+const isEmploy : boolean = false;
+
+console.log(`\nHis name is ${nname}.His Age is ${aage}.Is he Employed${isEmploy}.`)
+console.log("\nNAME : ",nname);
+console.log("AGE : ",aage);
+console.log("ISEMPLOYED : ",isEmploy);
 
