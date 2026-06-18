@@ -56,3 +56,20 @@ count++;
 console.log("\nIncrement Operator : ",count);
 count--;
 console.log("Decrement Operators : ", count);
+
+//ternary Operator -- ?
+console.log("\nternary Operator");
+let marks: number = 70; 
+ 
+let result = (marks >= 50) ? "Pass" : "Fail"; 
+console.log(result); 
+
+// Bitwise Operators Basics 
+console.log("Bitwise Operators");
+
+console.log(5 & 1); 
+console.log(5 | 1); 
+console.log(5 ^ 1); 
+console.log(~5); 
+console.log(5 << 1); 
+console.log(5 >> 1); 
